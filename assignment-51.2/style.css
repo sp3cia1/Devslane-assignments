@@ -1,0 +1,59 @@
+.bg-white {
+  background-color: white;
+}
+.bg-green {
+  background-color: green;
+}
+.text-black {
+  color: black;
+}
+
+.h-96 {
+  height: 24rem;
+}
+
+.border-black {
+  border-color: black;
+}
+.border-2 {
+  border-width: 2px;
+}
+.border-4 {
+  border-width: 4px;
+}
+.border-solid {
+  border-style: solid;
+}
+.border-dotted {
+  border-style: dotted;
+}
+
+.p-2 {
+  padding: 0.5rem;
+}
+.p-4 {
+  padding: 1rem;
+}
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+}
+.font-bold {
+  font-weight: bold;
+}
+.text-center {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+.items-start {
+  align-items: flex-start;
+}
+.justify-center {
+  justify-content: center;
+}
